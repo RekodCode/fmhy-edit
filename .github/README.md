@@ -6,7 +6,7 @@
 
 ## 📖 Wiki
 
-- Website: [fmhy.net](https://fmhy.net)
+- Website: [fmhy.net](https://readnovelmtl.com/)
 - News & Monthly Updates: [fmhy.net/posts](https://fmhy.net/posts)
 - Backups: [github.com/fmhy/FMHY/wiki/Backups](https://github.com/fmhy/FMHY/wiki/Backups)
 
